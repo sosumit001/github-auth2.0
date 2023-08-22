@@ -2,6 +2,10 @@
 
 GitHub supports **OAuth 2.0**, which is an industry-standard protocol for authorization. It allows users to **grant third-party** applications limited access to their GitHub accounts without sharing their passwords. **OAuth 2.0** is commonly used for secure and controlled API access and authentication
 
+[![Alt Text](https://img.youtube.com/vi/M3sKxJNJz2w/0.jpg)](https://www.youtube.com/watch?v=M3sKxJNJz2w)
+
+
+
 ## 1. Redirecting Users for GitHub Identity Verification
 
 ![Github's Auth Flow](slides/authorization-flow.png)
